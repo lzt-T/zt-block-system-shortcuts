@@ -3,7 +3,10 @@
 跨平台键盘快捷键拦截库，支持 Windows 和 macOS，基于原生 C++ 实现，可阻止 Win 键、Alt+Tab、Ctrl、F1-F12 等系统快捷键。
 
 [![npm version](https://img.shields.io/npm/v/zt-block-system-shortcuts.svg)](https://www.npmjs.com/package/zt-block-system-shortcuts)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/lzt-T/zt-block-system-shortcuts)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**GitHub 仓库：** [https://github.com/lzt-T/zt-block-system-shortcuts](https://github.com/lzt-T/zt-block-system-shortcuts)
 
 ## 功能特性
 
